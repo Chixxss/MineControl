@@ -1,1 +1,3 @@
-{ "cubeVisible": true }
+{
+  "showCube": true
+}
